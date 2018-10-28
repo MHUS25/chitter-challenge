@@ -1,6 +1,6 @@
 require 'sinatra/base'
 require 'sinatra/flash'
-require_relative './lib/peep.rb'
+require_relative './lib/peep'
 require_relative './lib/user'
 require_relative './database_connection_setup'
 
